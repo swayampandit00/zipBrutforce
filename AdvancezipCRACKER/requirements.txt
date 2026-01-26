@@ -1,0 +1,13 @@
+# ZIP Password Cracker Requirements
+# No external dependencies required - uses only Python standard library
+# Compatible with Python 3.6+
+
+# Optional: For enhanced performance with large wordlists
+# tqdm>=4.64.0  # Progress bars (optional)
+
+# Note: All functionality uses Python standard library:
+# - zipfile (ZIP file handling)
+# - itertools (Combinatorial generation)
+# - threading/multiprocessing (Parallel processing)
+# - argparse (Command line interface)
+# - string (Character sets)

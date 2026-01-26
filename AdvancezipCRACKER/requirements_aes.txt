@@ -1,0 +1,2 @@
+# ZIP Password Cracker with AES support
+pyzipper>=0.3.6
