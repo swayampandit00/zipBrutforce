@@ -1,4 +1,4 @@
-# ZIP Password Cracker
+#- ZIP Password Cracker
 
 A powerful Python tool for cracking ZIP file passwords using multiple attack methods including dictionary attacks, brute force attacks, and pattern-based attacks.
 
@@ -227,3 +227,4 @@ Feel free to submit issues, feature requests, or pull requests to improve the to
 ## License
 
 This project is for educational purposes. Use responsibly and in accordance with applicable laws.
+
